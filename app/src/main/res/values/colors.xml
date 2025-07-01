@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- NOVA Brand Colors -->
+    <color name="nova_blue">#58A6FF</color>
+    <color name="nova_purple">#7C3AED</color>
+    <color name="nova_orange">#FFB347</color>
+    <color name="nova_red">#FF6B6B</color>
+    <color name="nova_green">#39D353</color>
+    
+    <!-- Dark Theme Colors -->
+    <color name="dark_background">#0D1117</color>
+    <color name="dark_surface">#161B22</color>
+    <color name="card_surface">#21262D</color>
+    <color name="elevated_surface">#30363D</color>
+    
+    <!-- Container Colors -->
+    <color name="dark_blue_container">#1C2128</color>
+    <color name="dark_purple_container">#2D1B69</color>
+    <color name="dark_orange_container">#3D2914</color>
+    <color name="dark_red_container">#4D1F1F</color>
+    <color name="dark_green_container">#1F4D2A</color>
+    
+    <!-- Text Colors -->
+    <color name="light_text">#F0F6FC</color>
+    <color name="muted_text">#B1BAC4</color>
+    <color name="gray_text">#7D8590</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    
+    <!-- Border Colors -->
+    <color name="border_default">#30363D</color>
+    <color name="border_muted">#21262D</color>
+    
+    <!-- State Colors -->
+    <color name="success">#39D353</color>
+    <color name="warning">#FFB347</color>
+    <color name="error">#FF6B6B</color>
+    <color name="info">#58A6FF</color>
+    
+    <!-- Overlay Colors -->
+    <color name="scrim">#80000000</color>
+    <color name="overlay_light">#80FFFFFF</color>
+    <color name="overlay_dark">#80000000</color>
+    
+    <!-- Interactive Colors -->
+    <color name="ripple_light">#1A58A6FF</color>
+    <color name="ripple_dark">#1A000000</color>
+    
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#0D1117</color>
+    <color name="gradient_middle">#161B22</color>
+    <color name="gradient_end">#21262D</color>
+    
+    <!-- Category Colors -->
+    <color name="device_control">#58A6FF</color>
+    <color name="communication">#39D353</color>
+    <color name="alarms_reminders">#FFB347</color>
+    <color name="utilities">#7C3AED</color>
+    <color name="media">#FF6B6B</color>
+    <color name="productivity">#58A6FF</color>
+    <color name="web_tools">#39D353</color>
+    <color name="fun_extras">#FFB347</color>
+    <color name="system_security">#FF6B6B</color>
+    <color name="file_manager">#7C3AED</color>
+    
+    <!-- Voice Animation Colors -->
+    <color name="waveform_primary">#58A6FF</color>
+    <color name="waveform_secondary">#7C3AED</color>
+    <color name="waveform_accent">#FFB347</color>
+    
+    <!-- Button States -->
+    <color name="button_enabled">#58A6FF</color>
+    <color name="button_disabled">#30363D</color>
+    <color name="button_pressed">#4A90E2</color>
+    
+    <!-- Listening States -->
+    <color name="listening_active">#58A6FF</color>
+    <color name="listening_inactive">#7D8590</color>
+    <color name="recording">#FF6B6B</color>
+    <color name="processing">#FFB347</color>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.NovaAssistant" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary colors -->
+        <item name="colorPrimary">@color/nova_blue</item>
+        <item name="colorOnPrimary">@color/dark_background</item>
+        <item name="colorPrimaryContainer">@color/dark_blue_container</item>
+        <item name="colorOnPrimaryContainer">@color/nova_blue</item>
+        
+        <!-- Secondary colors -->
+        <item name="colorSecondary">@color/nova_purple</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorSecondaryContainer">@color/dark_purple_container</item>
+        <item name="colorOnSecondaryContainer">@color/nova_purple</item>
+        
+        <!-- Error colors -->
+        <item name="colorError">@color/nova_red</item>
+        <item name="colorOnError">@color/white</item>
+        <item name="colorErrorContainer">@color/dark_red_container</item>
+        <item name="colorOnErrorContainer">@color/nova_red</item>
+        
+        <!-- Background colors -->
+        <item name="android:colorBackground">@color/dark_background</item>
+        <item name="colorOnBackground">@color/light_text</item>
+        <item name="colorSurface">@color/dark_surface</item>
+        <item name="colorOnSurface">@color/light_text</item>
+        <item name="colorSurfaceVariant">@color/card_surface</item>
+        <item name="colorOnSurfaceVariant">@color/muted_text</item>
+        
+        <!-- Status bar -->
+        <item name="android:statusBarColor">@color/dark_background</item>
+        <item name="android:navigationBarColor">@color/dark_background</item>
+        <item name="android:windowLightStatusBar">false</item>
+        
+        <!-- Window properties -->
+        <item name="android:windowBackground">@color/dark_background</item>
+        <item name="android:colorPrimaryDark">@color/dark_background</item>
+    </style>
+    
+    <style name="Theme.NovaAssistant.Splash" parent="Theme.NovaAssistant">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>
